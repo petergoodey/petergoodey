@@ -1,7 +1,7 @@
 ## .NET
 - [ASP.NET Core web API](https://dotnet.microsoft.com/apps/aspnet/apis) 
   - [Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio)
-  - [C# Corner Turorial](https://www.c-sharpcorner.com/article/asp-net-core-5-0-web-api/)
+  - [C# Corner Tutorial](https://www.c-sharpcorner.com/article/asp-net-core-5-0-web-api/)
   - [Good YouTube Tutorial for .NET 5](https://www.youtube.com/watch?v=Jvu60R-AWQc)
   - [Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-6.0) [[Succinct Tutorial](https://www.youtube.com/watch?v=5eifH7LEnGo)]
   - [Dependency Injection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1) [[Brief Tutorial](https://www.youtube.com/watch?v=YR6HkvNBpX4)]
