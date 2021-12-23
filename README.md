@@ -5,7 +5,7 @@
   - [Good YouTube Tutorial for .NET 5](https://www.youtube.com/watch?v=Jvu60R-AWQc)
   - [Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-6.0) [[Succinct Tutorial](https://www.youtube.com/watch?v=5eifH7LEnGo)]
   - [Dependency Injection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1) [[Brief Tutorial](https://www.youtube.com/watch?v=YR6HkvNBpX4)]
-  - [Filters](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-6.0) [[Tutorial](https://www.youtube.com/watch?v=mKM6FbxMGI8)]
+  - [Filters](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-6.0) [[Tutorial 1](https://www.youtube.com/watch?v=mKM6FbxMGI8)] [[Tutorial 2](https://www.youtube.com/watch?v=kqwjrJ4kb9Q)]
 - [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture) [[Tutorial](https://www.youtube.com/watch?v=dK4Yb6-LxAk&t=820s)]
 - [C# 8 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
 - [New C# 9 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
