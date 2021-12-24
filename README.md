@@ -34,6 +34,7 @@
 	- [Liskov Substitution Principle (LSP)](https://dotnettutorials.net/lesson/liskov-substitution-principle/)
 	- [Interface Segregation Principle (ISP)](https://dotnettutorials.net/lesson/interface-segregation-principle/)
 	- [Dependency Inversion Principle (DIP)](https://dotnettutorials.net/lesson/dependency-inversion-principle/)
+- [Code Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [Design Patterns](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) [[C# Examples](https://refactoring.guru/design-patterns/csharp)] [[Tutorial](https://www.youtube.com/watch?v=NU_1StN5Tkk&t=7s)]
 # Architecture
 # Cloud Platforms
