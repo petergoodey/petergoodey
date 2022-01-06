@@ -92,6 +92,7 @@
 - [OWASP](https://owasp.org/)
   - [OWASP Dot Net Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html)
   - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+  - [Snyk](https://snyk.io/)
 ## Penetration Testing
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 - [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
