@@ -12,7 +12,8 @@
   - [Entity Framework](https://docs.microsoft.com/en-us/ef/) [[Tutorial](https://www.youtube.com/watch?v=ZX7_12fwQLU&t=1454s)] [[Cheat Sheet](https://github.com/rstropek/htl-csharp/blob/master/entity-framework/ef-aspnet-cheat-sheet.md)]
 - [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture) [[Tutorial](https://www.youtube.com/watch?v=dK4Yb6-LxAk&t=820s)]
 - [C# 8 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
-- [New C# 9 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
+- [C# 9 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
+- [C# 10 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10) 
 ## JavaScript
 ### Frameworks
 - [JQuery](https://jquery.com/) [[Documentation](https://api.jquery.com/)] [[Tutorial](https://www.youtube.com/watch?v=BWXggB-T1jQ)] [[Cheat Sheet](https://overapi.com/jquery)]
