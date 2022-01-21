@@ -52,6 +52,21 @@
 	- [Dependency Inversion Principle (DIP)](https://dotnettutorials.net/lesson/dependency-inversion-principle/)
 - [Code Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [Design Patterns](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) [[C# Examples](https://refactoring.guru/design-patterns/csharp)] [[Tutorial](https://www.youtube.com/watch?v=NU_1StN5Tkk&t=7s)]
+## Web API
+### Design and Specification
+- [Microsoft Best Practices API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [Open API Specification](https://spec.openapis.org/oas/v3.1.0)
+### Tools
+#### API Generation
+- [Swagger and Swashbuckle](https://swagger.io/) [[.NET Guide](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-6.0&tabs=visual-studio)]
+- 
+- [NSwag](https://github.com/RicoSuter/NSwag)
+- [Generating Open API Clients for C#](https://kaylumah.nl/2021/05/23/generate-csharp-client-for-openapi.html)
+### Authentication
+- [JSON Web Tokens](https://jwt.io) [[C# tutorial for .NET 6](https://jasonwatmore.com/post/2021/12/14/net-6-jwt-authentication-tutorial-with-example-api)]
+- [Multi-factor Authentication in C# .NET 6](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/mfa?view=aspnetcore-6.0) [[Tutorial](https://www.youtube.com/watch?v=sogS0DtejVA)]
+#### Testing
 ## Cloud Architecture
 ### Platforms
 - [Azure](https://azure.microsoft.com/) [[Overview](https://azurecharts.com/overview)] [[Heatmap](https://azurecharts.com/heatmap)]
@@ -60,18 +75,6 @@
 ### Microservice Architecture
 - [Building & Debugging in Visual Studio](https://www.youtube.com/watch?v=98nIvg7ne7Q&t=1032s)
 - [Tutorial Deploy C# to Kubernetes from Scratch (18 mins)](https://www.youtube.com/watch?v=-eqZphDPJiQ)
-#### RESTful API
-#### Design and Specification
-- [Microsoft Best Practices API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
-- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-- [Open API Specification](https://spec.openapis.org/oas/v3.1.0)
-#### Tools
-- [Swagger](https://swagger.io/)
-- [NSwag](https://github.com/RicoSuter/NSwag)
-- [Generating Open API Clients for C#](https://kaylumah.nl/2021/05/23/generate-csharp-client-for-openapi.html)
-#### Authentication
-- [JSON Web Tokens](https://jwt.io) [[C# tutorial for .NET 6](https://jasonwatmore.com/post/2021/12/14/net-6-jwt-authentication-tutorial-with-example-api)]
-- [Multi-factor Authentication in C# .NET 6](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/mfa?view=aspnetcore-6.0) [[Tutorial](https://www.youtube.com/watch?v=sogS0DtejVA)]
 #### Containerisation
 - [Docker](https://www.docker.com/) [[Documentation](https://docs.docker.com/engine/reference/builder/)] [[Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE)] [[Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)]
 #### Kubernetes
