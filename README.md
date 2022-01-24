@@ -76,7 +76,7 @@
 - [Building & Debugging in Visual Studio](https://www.youtube.com/watch?v=98nIvg7ne7Q&t=1032s)
 - [Tutorial Deploy C# to Kubernetes from Scratch (18 mins)](https://www.youtube.com/watch?v=-eqZphDPJiQ)
 #### Containerisation
-- [Docker](https://www.docker.com/) [[Documentation](https://docs.docker.com/engine/reference/builder/)] [[Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE)] [[Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)]
+- [Docker](https://www.docker.com/) [[Documentation](https://docs.docker.com/engine/reference/builder/)] [[Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE)] [[CLI Reference](https://docs.docker.com/engine/reference/run/)] [[Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)]
 #### Kubernetes
 - [Kubernetes Microservice 1 hour Crash Course](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 - [Helm](https://helm.sh/) [[Overview](https://www.youtube.com/watch?v=fy8SHvNZGeE&t=470sE)] [[Tutorial](https://www.youtube.com/watch?v=-ykwb1d0DXU)] [[Building a Kubernetes CI/CD Pipeline with GitLab and Helm](https://www.youtube.com/watch?v=8Ao5WcMJJ2c)]
