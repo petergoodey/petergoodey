@@ -1,7 +1,7 @@
 
 
 # Software Engineering Links
-Feel free to let me know about dead links or better sources.
+Pull requests welcome for better sources/dead links.
 ## Languages
 ### C#
 
