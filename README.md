@@ -4,7 +4,6 @@
 Pull requests welcome for better sources/dead links.
 ## Languages
 ### C#
-
 - [C# Online Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
 - [C# 8 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
 - [C# 9 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
@@ -20,6 +19,7 @@ Pull requests welcome for better sources/dead links.
   - [Filters](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-6.0) [[Tutorial 1](https://www.youtube.com/watch?v=mKM6FbxMGI8)] [[Tutorial 2](https://www.youtube.com/watch?v=kqwjrJ4kb9Q)]
   - [Entity Framework](https://docs.microsoft.com/en-us/ef/) [[Tutorial](https://www.youtube.com/watch?v=ZX7_12fwQLU&t=1454s)] [[Cheat Sheet](https://github.com/rstropek/htl-csharp/blob/master/entity-framework/ef-aspnet-cheat-sheet.md)]
 - [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture) [[Tutorial](https://www.youtube.com/watch?v=dK4Yb6-LxAk&t=820s)]
+- [Excellent up-to-date YouTube Channel](https://www.youtube.com/c/Elfocrash)
 ### JavaScript
 #### Frameworks
 - [JQuery](https://jquery.com/) [[Documentation](https://api.jquery.com/)] [[Tutorial](https://www.youtube.com/watch?v=BWXggB-T1jQ)] [[Cheat Sheet](https://overapi.com/jquery)]
