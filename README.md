@@ -38,7 +38,7 @@ Pull requests welcome for better sources/dead links.
 - [SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
 ### Flavours
 - [MongoDB](https://www.mongodb.com/) [[Documentation](https://docs.mongodb.com/manual/)] [[Tutorial](https://www.youtube.com/watch?v=-56x56UppqQ)] [[Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet/)]
-- [PostgresSQL](https://www.postgresql.org/) [[Cheat Sheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)] [[pgAdmin](https://www.pgadmin.org/)]
+- [PostgresSQL](https://www.postgresql.org/) [[pgAdmin](https://www.pgadmin.org/)] [[Cheat Sheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)]
 - [MariaDB](https://mariadb.org/) [[Tutorial](https://www.mariadbtutorial.com/) [[Cheat Sheet](https://bertvv.github.io/cheat-sheets/MySQL-MariaDB.html)]
 ### Scaling
 - [Database Scaling Patterns](https://www.freecodecamp.org/news/understanding-database-scaling-patterns/)
