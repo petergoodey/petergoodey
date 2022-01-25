@@ -69,9 +69,13 @@ Pull requests welcome for better sources/dead links.
 #### Testing
 ## Cloud Architecture
 ### Platforms
+#### Azure
 - [Azure](https://azure.microsoft.com/) [[Overview](https://azurecharts.com/overview)] [[Heatmap](https://azurecharts.com/heatmap)]
+- [Kusto Query Language (KQL)](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/) [[Cheat Sheet](https://github.com/marcusbakker/KQL/blob/master/kql_cheat_sheet.pdf)]
+### Google Cloud Platform (GCP)
+- [Google Cloud Platform (GCP)](https://cloud.google.com/)
+### Amazon Web Services
 - [Amazon Web Services (AWS)](https://aws.amazon.com/) [[Documentation](https://aws.amazon.com/products/)]
-- [Google Cloud Platform (GCP)](https://cloud.google.com/) [[]()]
 ### Microservice Architecture
 - [Building & Debugging in Visual Studio](https://www.youtube.com/watch?v=98nIvg7ne7Q&t=1032s)
 - [Tutorial Deploy C# to Kubernetes from Scratch (18 mins)](https://www.youtube.com/watch?v=-eqZphDPJiQ)
