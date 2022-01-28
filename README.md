@@ -1,7 +1,7 @@
 
 
 # Software Engineering Links
-Pull requests welcome for better sources/dead links.
+Pull requests welcome for better sources or to fix dead links.
 ## Languages
 ### C#
 - [C# Online Reference](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
