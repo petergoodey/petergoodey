@@ -124,6 +124,7 @@ Pull requests welcome for better sources or to fix dead links.
 #### Tools
 - [API Stress Testing - Brief Overview](https://medium.com/@Johne_Jacob/api-penetration-testing-things-to-be-noted-14ec0a170222)
 - [Gatling](https://gatling.io/) [[Quick Start](https://gatling.io/docs/gatling/tutorials/quickstart/)] [[Tutorial](https://www.james-willett.com/gatling-load-testing-complete-guide/)]
+- [k6](https://k6.io/) [[Documentation](https://k6.io/docs/)] [[Intro](https://www.youtube.com/watch?v=r-Jte8Y8zag)]
 ## Security
 ### Exploits
 - [OWASP](https://owasp.org/)
