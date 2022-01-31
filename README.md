@@ -121,8 +121,8 @@ Pull requests welcome for better sources or to fix dead links.
 - [AutoFixture](https://autofixture.github.io/) [Quick Start](https://autofixture.github.io/docs/quick-start/) [[Cheat Sheet](https://www.jankowskimichal.pl/en/download/moq-xunit-autofixture-cheat-sheet/)
 - [Moq/xUnit/AutoFixture Cheat Sheet](https://www.jankowskimichal.pl/en/download/moq-xunit-autofixture-cheat-sheet/)
 ### Performance\Stress Testing
-#### Tools
 - [API Stress Testing - Brief Overview](https://medium.com/@Johne_Jacob/api-penetration-testing-things-to-be-noted-14ec0a170222)
+#### Tools
 - [Gatling](https://gatling.io/) [[Quick Start](https://gatling.io/docs/gatling/tutorials/quickstart/)] [[Tutorial](https://www.james-willett.com/gatling-load-testing-complete-guide/)]
 - [k6](https://k6.io/) [[Documentation](https://k6.io/docs/)] [[Intro](https://www.youtube.com/watch?v=r-Jte8Y8zag)]
 ## Security
