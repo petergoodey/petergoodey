@@ -43,7 +43,7 @@ Pull requests welcome for better sources or to fix dead links.
 ### Scaling
 - [Database Scaling Patterns](https://www.freecodecamp.org/news/understanding-database-scaling-patterns/)
 - [Command Query Responsibility Segregation (CQRS)](https://martinfowler.com/bliki/CQRS.html)
-## Design
+## Programming Design Principles
 - [SOLID](https://www.educative.io/blog/solid-principles-oop-c-sharp)
 	- [Single Responsibility Principle (SRP)](https://dotnettutorials.net/lesson/single-responsibility-principle/) 
 	- [Open-Closed Principle (OCP)](https://dotnettutorials.net/lesson/open-closed-principle/)
