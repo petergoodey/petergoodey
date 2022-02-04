@@ -60,7 +60,6 @@ Pull requests welcome for better sources or to fix dead links.
 ### Tools
 #### API Generation
 - [Swagger and Swashbuckle](https://swagger.io/) [[.NET Guide](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-6.0&tabs=visual-studio)]
-- 
 - [NSwag](https://github.com/RicoSuter/NSwag)
 - [Generating Open API Clients for C#](https://kaylumah.nl/2021/05/23/generate-csharp-client-for-openapi.html)
 ### Authentication
