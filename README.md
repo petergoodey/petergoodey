@@ -79,7 +79,7 @@ Pull requests welcome for better sources or to fix dead links.
 - [Building & Debugging in Visual Studio](https://www.youtube.com/watch?v=98nIvg7ne7Q&t=1032s)
 - [Tutorial Deploy C# to Kubernetes from Scratch (18 mins)](https://www.youtube.com/watch?v=-eqZphDPJiQ)
 #### Containerisation
-- [Docker](https://www.docker.com/) [[Documentation](https://docs.docker.com/engine/reference/builder/)] [[Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE)] [[CLI Reference](https://docs.docker.com/engine/reference/run/)] [[Cheat Sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)]
+- [Docker](https://www.docker.com/) [[Documentation](https://docs.docker.com/engine/reference/builder/)] [[Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE)] [[CLI Reference](https://docs.docker.com/engine/reference/run/)] [[Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)]
 #### Kubernetes
 - [Kubernetes Microservice 1 hour Crash Course](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 - [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) [[Reference](https://kubernetes.io/docs/reference/kubectl/overview/)] [[Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)]
