@@ -40,6 +40,8 @@ Pull requests welcome for better sources or to fix dead links.
 - [MongoDB](https://www.mongodb.com/) [[Documentation](https://docs.mongodb.com/manual/)] [[Tutorial](https://www.youtube.com/watch?v=-56x56UppqQ)] [[Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet/)]
 - [PostgresSQL](https://www.postgresql.org/) [[pgAdmin](https://www.pgadmin.org/)] [[Cheat Sheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)]
 - [MariaDB](https://mariadb.org/) [[Tutorial](https://www.mariadbtutorial.com/)] [[Cheat Sheet](https://bertvv.github.io/cheat-sheets/MySQL-MariaDB.html)]
+### Clients
+- [DBeaver Dataabse Client](https://dbeaver.io/)
 ### Scaling
 - [Database Scaling Patterns](https://www.freecodecamp.org/news/understanding-database-scaling-patterns/)
 - [Command Query Responsibility Segregation (CQRS)](https://martinfowler.com/bliki/CQRS.html)
