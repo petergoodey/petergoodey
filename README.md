@@ -139,6 +139,6 @@ Pull requests welcome for better sources or to fix dead links.
 - [Browser Exploitation Framework (BeEF)](https://beefproject.com/)
 ## Operating Systems
 - [Debian](https://www.debian.org/) [[Installing on WSL with Powershell](https://norcliffe.com/2020/03/28/wsl-installation-step-by-step/)]
-- [Bash](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) [[Tutorial](https://linuxconfig.org/bash-scripting-tutorial)] [[Cheat Sheet](https://devhints.io/bash)] [[Parameter Expansion](https://wiki.bash-hackers.org/syntax/pe)]
+- [Bash](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) [[Tutorial](https://linuxconfig.org/bash-scripting-tutorial)] [[Cheat Sheet](https://devhints.io/bash)] [[Bash HAckers Wiki](https://wiki.bash-hackers.org/)]
 ## Miscellaneous
 - [Markdown](https://daringfireball.net/projects/markdown/) [[Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)] [[Cheat Sheet with Examples](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)] [[Online WYSIWYG Editor](https://stackedit.io/app)]
