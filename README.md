@@ -83,13 +83,16 @@ Pull requests welcome for better sources or to fix dead links.
 #### Containerisation
 - [Docker](https://www.docker.com/) [[Documentation](https://docs.docker.com/engine/reference/builder/)] [[Tutorial](https://www.youtube.com/watch?v=3c-iBn73dDE)] [[CLI Reference](https://docs.docker.com/engine/reference/run/)] [[Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)]
 #### Kubernetes
+- [Kubernetes](https://kubernetes.io/docs/reference/) [[Tutorial](https://www.youtube.com/watch?v=X48VuDVv0do)] [[kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)]
 - [Kubernetes Microservice 1 hour Crash Course](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 - [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) [[Reference](https://kubernetes.io/docs/reference/kubectl/overview/)] [[Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)]
 - [Helm](https://helm.sh/) [[Overview](https://www.youtube.com/watch?v=fy8SHvNZGeE&t=470sE)] [[Tutorial](https://www.youtube.com/watch?v=-ykwb1d0DXU)] [[Building a Kubernetes CI/CD Pipeline with GitLab and Helm](https://www.youtube.com/watch?v=8Ao5WcMJJ2c)]
 
+#### Service Mesh
+- [Istio](https://istio.io/) [[docs](https://istio.io/latest/docs/)] [[15 minute intro](https://www.youtube.com/watch?v=16fgzklcF7Y)] [[30 minute practical](https://www.youtube.com/watch?v=KUHzxTCe5Uc) ([Source code](https://github.com/marcel-dempers/docker-development-youtube-series))] 
+
 #### Scalability
 - [Scalability Types](https://datafloq.com/read/cloud-computing-scalability-a-quick-guide-types/15623)
-- [Kubernetes](https://kubernetes.io/docs/reference/) [[Tutorial](https://www.youtube.com/watch?v=X48VuDVv0do)] [[kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)]
 ## DevOps
 - [Great DevOps Overview](https://www.youtube.com/watch?v=9pZ2xmsSDdo)
 - [CI/CD Overview](https://docs.gitlab.com/ee/ci/introduction/)
@@ -121,7 +124,7 @@ Pull requests welcome for better sources or to fix dead links.
 - [Moq](https://github.com/moq/moq4) [[Tutorial](https://spin.atomicobject.com/2017/08/07/intro-mocking-moq/)] [[Cheat Sheet](https://github.com/Moq/moq4/wiki/Quickstart)]
 - [AutoFixture](https://autofixture.github.io/) [Quick Start](https://autofixture.github.io/docs/quick-start/) [[Cheat Sheet](https://www.jankowskimichal.pl/en/download/moq-xunit-autofixture-cheat-sheet/)
 - [Moq/xUnit/AutoFixture Cheat Sheet](https://www.jankowskimichal.pl/en/download/moq-xunit-autofixture-cheat-sheet/)
-### Performance\Stress Testing
+### Performance/Stress Testing
 - [API Stress Testing - Brief Overview](https://medium.com/@Johne_Jacob/api-penetration-testing-things-to-be-noted-14ec0a170222)
 #### Tools
 - [Gatling](https://gatling.io/) [[Quick Start](https://gatling.io/docs/gatling/tutorials/quickstart/)] [[Tutorial](https://www.james-willett.com/gatling-load-testing-complete-guide/)]
