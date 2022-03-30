@@ -56,7 +56,7 @@ Pull requests welcome for better sources or to fix dead links.
 	- [SOLID Design Principles Deconstructed - Kevlin Henney](https://www.youtube.com/watch?v=tMW08JkFrBA) 
 - [Code Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [Design Patterns](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) [[C# Examples](https://refactoring.guru/design-patterns/csharp)] [[Tutorial](https://www.youtube.com/watch?v=NU_1StN5Tkk&t=7s)]
-- [Guilded Rose - Code Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+- [Coding Kata](https://github.com/gamontal/awesome-katas) [[Guilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata)] [[CodeWars](https://www.codewars.com/)
 
 ## Web API
 ### Design and Specification
