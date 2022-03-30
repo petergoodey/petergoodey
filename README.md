@@ -8,7 +8,7 @@ Pull requests welcome for better sources or to fix dead links.
 - [C# 8 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8)
 - [C# 9 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9)
 - [C# 10 Features](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-10) 
-#### .NET Framework
+#### .NET
 - [ASP.NET Core web API](https://dotnet.microsoft.com/apps/aspnet/apis) 
   - [Web API Microsoft Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio)
   - [C# ASP .NET 5 Tutoriall](https://www.c-sharpcorner.com/article/asp-net-core-5-0-web-api/)
@@ -18,6 +18,7 @@ Pull requests welcome for better sources or to fix dead links.
   - [Dependency Injection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1) [[Brief Tutorial](https://www.youtube.com/watch?v=YR6HkvNBpX4)]
   - [Filters](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-6.0) [[Tutorial 1](https://www.youtube.com/watch?v=mKM6FbxMGI8)] [[Tutorial 2](https://www.youtube.com/watch?v=kqwjrJ4kb9Q)]
   - [Entity Framework](https://docs.microsoft.com/en-us/ef/) [[Tutorial](https://www.youtube.com/watch?v=ZX7_12fwQLU&t=1454s)] [[Cheat Sheet](https://github.com/rstropek/htl-csharp/blob/master/entity-framework/ef-aspnet-cheat-sheet.md)]
+  - [Linq](https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=net-6.0) [[Tutorial](https://www.youtube.com/watch?v=gwD9awr3NNo)] [[Advanced Tutorial](https://www.youtube.com/playlist?list=PL4LFuHwItvKbzDl6MBp3XY0MrnALSfyub)]
 - [Clean Architecture](https://github.com/jasontaylordev/CleanArchitecture) [[Tutorial](https://www.youtube.com/watch?v=dK4Yb6-LxAk&t=820s)]
 - [Excellent up-to-date YouTube Channel](https://www.youtube.com/c/Elfocrash)
 ### JavaScript
@@ -52,8 +53,11 @@ Pull requests welcome for better sources or to fix dead links.
 	- [Liskov Substitution Principle (LSP)](https://dotnettutorials.net/lesson/liskov-substitution-principle/)
 	- [Interface Segregation Principle (ISP)](https://dotnettutorials.net/lesson/interface-segregation-principle/)
 	- [Dependency Inversion Principle (DIP)](https://dotnettutorials.net/lesson/dependency-inversion-principle/)
+	- [SOLID Design Principles Deconstructed - Kevlin Henney](https://www.youtube.com/watch?v=tMW08JkFrBA) 
 - [Code Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [Design Patterns](https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/) [[C# Examples](https://refactoring.guru/design-patterns/csharp)] [[Tutorial](https://www.youtube.com/watch?v=NU_1StN5Tkk&t=7s)]
+- [Guilded Rose - Code Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
+
 ## Web API
 ### Design and Specification
 - [Microsoft Best Practices API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
@@ -104,7 +108,7 @@ Pull requests welcome for better sources or to fix dead links.
 - [Agile](https://en.wikipedia.org/wiki/Agile_software_development)
   - [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) - [[Tutorial](https://www.youtube.com/watch?v=9TycLR0TqFA)]
   - [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)) - [[Tutorial](https://www.youtube.com/watch?v=jf0tlbt9lx0)]
-- [Test Driven Development (TDD)](https://www.guru99.com/test-driven-development.html) [[Tutorial](https://www.guru99.com/test-driven-development.html)]
+  - [The Original Agile Manifesto](https://agilemanifesto.org/)
 ## Development
 ### IDEs
 - [Visual Studio](https://visualstudio.microsoft.com/) [[Cheat Sheet](https://visualstudiomagazine.com/articles/2019/06/06/visual-studio-productivity.aspx)]
@@ -118,6 +122,9 @@ Pull requests welcome for better sources or to fix dead links.
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Mercurial Documentation](https://www.selenic.com/mercurial/hg.1.html)
 ## Testing
+- [Test Driven Development (TDD)](https://www.guru99.com/test-driven-development.html) [[Tutorial](https://www.guru99.com/test-driven-development.html)] 
+- [Ian Cooper on TDD](https://www.youtube.com/watch?v=EZ05e7EMOLM) 
+- [Mutation Testing](guru99.com/mutation-testing.html) [[Stryker](https://stryker-mutator.io/)] [[Tutorial with Stryker.NET](https://www.youtube.com/watch?v=sGwfwtkaDfk)] 
 ### Unit Testing in .NET
 - [xUnit](https://xunit.net/) [[Documentation](https://xunit.net/#documentation)] [[Tutorial](https://www.youtube.com/watch?v=2Wp8en1I9oQ)]
 - [NUnit](https://nunit.org/) [[Documentation](https://docs.nunit.org/)] [[Tutorial](https://www.youtube.com/playlist?list=PLbJwoU-LyMcnbweDXRviSE7GAHHIHYets)]
