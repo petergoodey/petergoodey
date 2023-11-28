@@ -147,6 +147,20 @@ Pull requests welcome for better sources or to fix dead links.
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 - [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
 - [Browser Exploitation Framework (BeEF)](https://beefproject.com/)
+### Open-Source Intelligence
+- [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence)
+- [Tools from CSO](https://www.csoonline.com/article/567859/what-is-osint-top-open-source-intelligence-tools.html)
+- [recon-ng](https://github.com/lanmaster53/recon-ng)
+- [Mattego](https://www.maltego.com/)
+- [Mitaka](https://github.com/ninoseki/mitaka) - [[Chrome Extension](https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg)]
+- [Spiderfoot ](https://github.com/smicallef/spiderfoot)
+- [Spyse](https://spyse.com/)
+- [BuiltWith](https://builtwith.com/)
+- [Intelligence ](https://intelx.io/)
+- [DarkSearch.io](https://darksearch.io/)
+- [Grep.app ](https://grep.app/)
+- [theHarvester](https://github.com/laramies/theHarvester)
+- [Shodan](https://www.shodan.io/)
 ## Operating Systems
 - [Debian](https://www.debian.org/) [[Installing on WSL with Powershell](https://norcliffe.com/2020/03/28/wsl-installation-step-by-step/)]
 - [Bash](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) [[Bash Hackers Wiki](https://wiki.bash-hackers.org/)] [[Tutorial](https://linuxconfig.org/bash-scripting-tutorial)] [[Cheat Sheet](https://devhints.io/bash)]
