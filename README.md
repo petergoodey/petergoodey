@@ -1,5 +1,7 @@
 # Welcome
 
-## Software Engineering Notes
+## What's here
 
-[Here are some notes on software engineering](https://github.com/petergoodey/notes) **WIP**
+### [Software Engineering Notes](https://github.com/petergoodey/notes) (WIP)
+
+### [React/Typescript Vite TDD Demo](https://github.com/petergoodey/react-ts-vitest-tdd-demo)
