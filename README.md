@@ -1,6 +1,6 @@
 # Welcome
 
-## What's here
+## What's here...
 
 ### [Software Engineering Notes](https://github.com/petergoodey/notes) (WIP)
 
